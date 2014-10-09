@@ -1,10 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="-225 -50 200 190" width="938" height="406" version="1.1">
+	<title>XWP</title>
 	<style>
 		path {
 			fill: #e94048;
 			fill-opacity: 1.0;
 			fill-rule: nonzero;
 			stroke: none;
+			transition: fill 0.25s;
 		}
 		#x:hover {
 			fill: black;
