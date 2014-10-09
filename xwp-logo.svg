@@ -1,6 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="-225 -50 200 190" width="938" height="406" version="1.1">
+	<style>
+		path {
+			fill: #e94048;
+			fill-opacity: 1.0;
+			fill-rule: nonzero;
+			stroke: none;
+		}
+	</style>
 	<g>
-		<path style="fill:#e94048; fill-opacity:1; fill-rule:nonzero; stroke:none" d="
+		<path style="fill:#e94048; " d="
 			M -169.191 6.149
 			L -203.802 -28.463
 			L -279.17 46.908
@@ -25,7 +33,7 @@
 			Z
 		" />
 
-		<path id="w" style="fill:green; fill-opacity:1; fill-rule:nonzero; stroke:none" d="
+		<path id="w" style="fill:green;" d="
 			M -197.651 46.909
 			L -122.281 122.279
 			L -87.671 87.67
@@ -43,7 +51,7 @@
 			Z
 		" />
 
-		<path id="p" style="fill:blue; fill-opacity:1; fill-rule:nonzero; stroke:none" d="
+		<path id="p" style="fill:blue;" d="
 			M 0 0
 			L 40.633 40.634
 			C 58.441 19.695 57.461 -11.758 37.684 -31.535
