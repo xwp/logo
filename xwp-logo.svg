@@ -2,20 +2,16 @@
 	<title>XWP</title>
 	<style>
 		path {
-			fill: #e94048;
+			fill: #E94048;
 			fill-opacity: 1.0;
 			fill-rule: nonzero;
 			stroke: none;
 			transition: fill 0.25s;
 		}
-		#x:hover {
-			fill: black;
-		}
-		#w:hover {
-			fill: black;
-		}
+		#x:hover,
+		#w:hover,
 		#p:hover {
-			fill: black;
+			fill: #4D4D4D;
 		}
 	</style>
 	<g>
