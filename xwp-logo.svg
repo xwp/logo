@@ -2,7 +2,7 @@
 	<title>XWP</title>
 	<style>
 		path {
-			fill: #E94048;
+			fill: #D21C21;
 			fill-opacity: 1.0;
 			fill-rule: nonzero;
 			stroke: none;
@@ -11,7 +11,7 @@
 		#x:hover,
 		#w:hover,
 		#p:hover {
-			fill: #4D4D4D;
+			fill: #34495E;
 		}
 	</style>
 	<g>
