@@ -4,7 +4,7 @@
 	<title>XWP</title>
 	<style>
 		path {
-			fill: #000;
+			fill: #414757;
 			fill-opacity: 1.0;
 			fill-rule: nonzero;
 		}
